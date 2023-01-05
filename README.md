@@ -25,3 +25,10 @@ Miguel García Tenorio
         * Miguel López Palomino
     * Responsable:
         * Miguel López Palomino
+
+* TareaC:
+    * Miembros:
+        * Miguel García Tenorio
+        * Miguel López Palomino
+    * Responsable:
+        * Miguel García Tenorio
