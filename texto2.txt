@@ -1,1 +1,2 @@
 Esta es la segunda parte de la tareaB
+Añado línea en texto2 por primera vez 
